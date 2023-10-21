@@ -1,16 +1,8 @@
-# world_time
+#FlutterProject
+#MobileAppDeveloper
 
-A new Flutter project.
+A World Time Project that can see the time of the world from day to night 📱 ⏱️
+An Api get from http://worldtimeapi.org/
+Enjoy the apps
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-10-21 at 21 10 40](https://github.com/trntrinh79/world_time/assets/91517750/314820fe-d89b-4e63-8e97-9439c809ada6)
